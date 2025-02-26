@@ -7,10 +7,10 @@
 <div>
   <a href="https://github.com/mariaecs545">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaecs545&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaecs545&layout=compact&langs_count=168theme=dracula"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaecs545&layout=compact&langs_count=168theme=dracula"/>
 </div>
 
-## <a href="https://github.com/sponsors/mariaecs545"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## <a href="https://github.com/sponsors/mariaecs545"><img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/4617dcdd-00ce-4a68-97c1-fad3f29809f6"></a>
 
 <div>
   <a href="https://instagram.com/mariia.ecs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
