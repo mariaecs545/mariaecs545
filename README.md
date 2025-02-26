@@ -10,11 +10,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaecs545&layout=compact&langs_count=168theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Maria" src="https://assets.pinterest.com/ext/embed.html?id=809310995574439762/hi.gif">
-</div>
-
-##
+## <a href="https://github.com/sponsors/mariaecs545"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <div>
   <a href="https://instagram.com/mariia.ecs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
