@@ -18,7 +18,6 @@ Oi! Sou uma estudante de Ciência da Computação na UFOP, tenho 19 anos e estou
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaecs&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <a href="https://github.com/sponsors/mariaecs545"><img align="right" width="110" height="110" src="https://github.com/user-attachments/assets/4617dcdd-00ce-4a68-97c1-fad3f29809f6"></a>
 </div>
 
 <br><br><br>
@@ -27,6 +26,8 @@ Oi! Sou uma estudante de Ciência da Computação na UFOP, tenho 19 anos e estou
 ### <br><br><br>
 
 ##
+
+<a href="https://github.com/sponsors/mariaecs545"><img align="right" width="110" height="110" src="https://github.com/user-attachments/assets/4617dcdd-00ce-4a68-97c1-fad3f29809f6"></a>
 
 <div>
   <a href="https://instagram.com/mariia.ecs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
