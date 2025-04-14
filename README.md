@@ -1,6 +1,6 @@
 ## ⭐ Maria Carvalho
 
-Oi! Sou uma estudante de Ciência da Computação na UFOP, tenho 19 anos e estou iniciando minha jornada no mundo da tecnologia. Tenho interesse em UX/UI Design e Front-End, e estou explorando ferramentas como GitHub para melhorar minhas habilidades. Sempre aberto a aprender e colaborar!
+Oi! Sou uma estudante de Ciência da Computação na UFOP, tenho 20 anos e estou iniciando minha jornada no mundo da tecnologia. Tenho interesse em Ciência de Dados e IA, e estou explorando ferramentas como GitHub para melhorar minhas habilidades. Sempre aberto a aprender e colaborar!
 #
 
 <div>
