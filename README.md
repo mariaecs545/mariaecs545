@@ -39,7 +39,7 @@
 
 <br><br>
 
-### 🪻 Data Engineering & Ferramentas
+### 🪻 Ferramentas
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" alt="Docker, Git, GitHub, VSCode e Linux" />
 
