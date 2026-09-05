@@ -8,7 +8,7 @@
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&lines=%E2%AD%90+Ol%C3%A1%2C+eu+sou+a+Maria!;%F0%9F%92%97+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%F0%9F%8C%B7+Apaixonada+por+Dados+e+Tecnologia;%E2%9C%A8+Data+Analytics+%7C+Data+Science"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&lines=%E2%AD%90+Ol%C3%A1%2C+eu+sou+a+Maria!"
     alt="Typing SVG"
   />
 </a>
@@ -47,24 +47,6 @@
 
 <img src="https://img.shields.io/badge/Apache%20Airflow-8A2BE2?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
 <img src="https://img.shields.io/badge/Apache%20Doris-C2185B?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Doris" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=mariaecs545&show_icons=true&theme=radical&hide_border=true"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaecs545&layout=compact&theme=radical&hide_border=true"
-/>
 
 </div>
 
