@@ -1,13 +1,17 @@
-## ⭐ Olá, eu sou a Maria
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=## ⭐ Olá, eu sou a Maria" alt="Typing SVG" />
+  </a>
+</div>
 
 Sou uma estudante de graduação em Ciência da Computação da Universidade Federal de Ouro Preto, atualmente focada em Análise e Ciência de Dados. 
 🌱 Faço parte do TerraLab na equipe de Data Analitics.
 
 ### 💻 Minhas Tecnologias:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,mysql&perline=4" alt="Minhas Habilidades" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-carvalho545/" target="_blank">
