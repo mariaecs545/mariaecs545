@@ -5,11 +5,9 @@ Sou uma estudante de graduação em Ciência da Computação da Universidade Fed
 
 ### 💻 Minhas Tecnologias:
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,mysql&perline=4" alt="Minhas Habilidades" />
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaecs545&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-carvalho545/" target="_blank">
