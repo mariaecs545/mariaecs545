@@ -17,6 +17,6 @@ Sou uma estudante de graduação em Ciência da Computação da Universidade Fed
 
 ### 💻 Minhas Tecnologias:
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,postgres,mysql&perline=4" alt="Minhas Habilidades" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,mysql&perline=4" alt="Minhas Habilidades" />
 </div>
