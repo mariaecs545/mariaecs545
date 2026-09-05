@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <!-- GIF / HEADER -->
@@ -98,4 +97,3 @@
 <img width="100%" src="https://64.media.tumblr.com/ae20fcfc04261d35faed2ab69be401db/9f40624fb93ae11e-ff/s2048x3072/bd15d5dce91924f822b4e6e16e185b7a9560fe6b.pnj" />
 
 </div>
-```
