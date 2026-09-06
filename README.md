@@ -69,7 +69,7 @@
 </a>
 
 <a href="https://discord.com/users/mariia.ecs" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-3B1E54?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
