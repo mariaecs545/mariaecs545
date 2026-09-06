@@ -41,7 +41,7 @@
 
 ### 🪻 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" alt="Docker, Git, GitHub, VSCode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" alt="Docker, Git, GitHub e VSCode" />
 
 <br><br>
 
