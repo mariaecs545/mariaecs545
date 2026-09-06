@@ -68,6 +68,10 @@
   <img src="https://img.shields.io/badge/Gmail-C2185B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://discord.com/users/mariia.ecs" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-FF4FA3?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </div>
 
 <br>
